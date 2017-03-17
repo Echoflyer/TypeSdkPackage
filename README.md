@@ -31,10 +31,10 @@
     <span style="color: rgb(255, 0, 0);"><span style="font-size: 19px; font-family: Arial, sans-serif;">2</span><span style="font-size: 19px;">、简单理解为Packge是打包工具的任务调度模块，<span style="font-family:黑体">TypeSdkPackge使用nodejs6.9编写</span></span></span>
 </h3>
 <h3 style="margin: 16px 0;background: white">
-    <span style="color: rgb(255, 0, 0);"><span style="font-size: 19px; font-family: Arial, sans-serif;">3</span><span style="font-size: 19px;">、<span style="font-family:黑体">该项目只放源码，使用相关环境请到百度云下载</span></span></span>
+    <span style="color: rgb(255, 0, 0);"><span style="color: rgb(255, 0, 0); font-size: 19px; font-family: Arial, sans-serif;">3</span><span style="color: rgb(255, 0, 0); font-size: 19px;">、<span style="color: rgb(255, 0, 0); font-family: 黑体;">该项目只放源码，使用相关环境请到百度云下载</span></span><a href="http://pan.baidu.com/s/1hrCrgEw">http://pan.baidu.com/s/1hrCrgEw</a> </span>
 </h3>
-<h3 style="margin: 16px 0;background: white">
-    <span style="color: rgb(255, 0, 0);"><span style="font-size: 19px;"><span style="font-family:黑体">http://pan.baidu.com/s/1hrCrgEw</span></span></span>
+<h3 style="white-space: normal; margin: 16px 0px; background: white;">
+    <span style="color: rgb(255, 0, 0);"><span style="font-size: 19px; font-family: Arial, sans-serif;">4</span><span style="font-size: 19px;">、一键安装包请到官网下载，GIT上仅放源码</span></span>
 </h3>
 <hr/>
 <p style="margin: 5px 0 16px">
