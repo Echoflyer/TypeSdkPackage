@@ -403,8 +403,10 @@ public class TypeSDKBonjour_oppo extends TypeSDKBaseBonjour {
 					
 					final PayInfo payInfo = new PayInfo(_in_pay.GetData(AttName.BILL_NUMBER),
 							userInfo.GetData(AttName.USER_ID), price);//
-					payInfo.setProductDesc(_in_pay.GetData(AttName.ITEM_NAME));
-					payInfo.setProductName(_in_pay.GetData(AttName.ITEM_NAME));
+					//payInfo.setProductDesc(_in_pay.GetData(AttName.ITEM_NAME));
+					payInfo.setProductDesc("测试商品介绍");
+					//payInfo.setProductName(_in_pay.GetData(AttName.ITEM_NAME));
+					payInfo.setProductName("测试商品名");
 					payInfo.setCallbackUrl(platform.GetData(AttName.PAY_CALL_BACK_URL));
 //					payInfo.setGoodsCount(getItemCount(_in_pay.GetData(AttName.ITEM_NAME)) == 0 ? _in_pay.GetInt(AttName.ITEM_COUNT) : 
 //						getItemCount(_in_pay.GetData(AttName.ITEM_NAME)));

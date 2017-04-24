@@ -480,7 +480,8 @@ public class TypeSDKBonjour_vivo extends TypeSDKBaseBonjour {
 					localBundle.putString("roleName", userInfo.GetData(AttName.ROLE_NAME));//角色名称 可选参数
 					localBundle.putString("serverName", userInfo.GetData(AttName.SERVER_NAME));//区服信息 可选参数
 					localBundle.putString("extInfo", extra);//扩展参数 可选参数
-					localBundle.putBoolean("logOnOff", true);// CP在接入过程请传true值,接入完成后在改为false, 传true会在支付SDK打印大量日志信息
+					localBundle.putBoolean("logOnOff", false);// CP在接入过程请传true值,接入完成后在改为false, 传true会在支付SDK打印大量日志信息
+
 					TypeSDKLogger.e("----------------------");
 					TypeSDKLogger.e("transNo:" + billNo);
 					TypeSDKLogger.e("accessKey:" + accessKey);
