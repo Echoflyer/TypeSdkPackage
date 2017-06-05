@@ -23,6 +23,7 @@ public final class TypeSDKDefine {
 		public static final String MSG_USER_FRIENDS = "NotifyUserFriends";// 获取好友列表
 		public static final String MSG_SHARERESULT = "NotifyShareResult";// 分享结果响应
 		public static final String MSG_EXTRA_FUNCTION = "NotifyExtraFunction";// 响应额外的功能函数
+		public static final String MSG_INVITERESULT = "NotifyInvitedResult";//邀请响应通知
 	}
 
 	public final static class AttName {

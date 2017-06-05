@@ -6,7 +6,7 @@
     <span style="color: rgb(84, 141, 212);"><strong><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">TypeSdkPackge</span></strong><strong><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">是TypeSdk统一渠道接入框架的打包逻辑部分，主要包含：</span></strong></span>
 </h2>
 <h2 style="margin-top:5px;margin-right:0;margin-bottom:16px;margin-left: 0">
-    <strong style="color: rgb(84, 141, 212); text-indent: 40px; font-size: 16px;"><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">1</span></strong><strong style="color: rgb(84, 141, 212); text-indent: 40px; font-size: 16px;"><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">、谷歌SDK框架</span></strong>
+    <strong style="color: rgb(84, 141, 212); text-indent: 40px; font-size: 16px;"><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">1</span></strong><strong style="color: rgb(84, 141, 212); text-indent: 40px; font-size: 16px;"><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">、TypeSDK Android SDK框架</span></strong>
 </h2>
 <h2 style="margin-top:5px;margin-right:0;margin-bottom:16px;margin-left: 0">
     <strong style="color: rgb(84, 141, 212); text-indent: 40px; font-size: 16px;"><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">2</span></strong><strong style="color: rgb(84, 141, 212); text-indent: 40px; font-size: 16px;"><span style="font-size: 19px; line-height: 173%; font-family: 黑体;">、游戏渠道SDK</span></strong>
